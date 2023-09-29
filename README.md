@@ -33,7 +33,7 @@ Este parrafo sirve de ejemplo para el readme de todo lo que se ha hecho durante 
 
 Con esta subida se comprobara si se habra funcionado lo que se ha hecho en clase o hubo un error en el aprendizaje.
 
-´´´
+```
 <html>
     <head>
     </head>
@@ -41,6 +41,7 @@ Con esta subida se comprobara si se habra funcionado lo que se ha hecho en clase
         <p>Esto es un párrafo</p>
     </body>
 <html>
-´´´
+```
+
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
