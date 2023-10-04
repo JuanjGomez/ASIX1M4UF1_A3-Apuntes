@@ -51,3 +51,8 @@ Con esta subida se comprobara si se habra funcionado lo que se ha hecho en clase
 |Col 3 es|Derecha|123€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[ ] Opción A
+-[X] Opción B
+-[ ] Opción C
+
