@@ -45,6 +45,8 @@ Con esta subida se comprobara si se habra funcionado lo que se ha hecho en clase
 
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
+![Esto es una imagen de la luna](https://github.com/JuanjGomez/ASIX1M4UF1_A3-Apuntes/blob/main/21275.600x450.jpg "titulo opcional de la foto")
+
 |Primera Col.|Segunda Col.|3 Col|
 |---------------|:------------:|---------:|
 |Col 2 es|Centrada|35€|
