@@ -6,7 +6,7 @@ Repositorio de Juan Gomez apuntes
 
 ![Alt text](lion-1.jpg)
 
-## SUBTITULO 
+## SUBTITULO
 
 Este texto está en *cursiva*.
 Este texto está en _cursiva_,
@@ -45,3 +45,9 @@ Con esta subida se comprobara si se habra funcionado lo que se ha hecho en clase
 
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
+|Primera Col.|Segunda Col.|3 Col|
+|---------------|:------------:|---------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|123€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
