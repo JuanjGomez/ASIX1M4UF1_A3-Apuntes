@@ -11,8 +11,8 @@ Repositorio de Juan Gomez apuntes
 Este texto está en *cursiva*.
 Este texto está en _cursiva_.
 Este texto está en **negrita**.
-Este texto está en __negrita__.
-Este texo está en *_*negrita y cursiva*_*
+Este texto está en ___negrita___.
+Este texo está en ***negrita y cursiva***
 
 1. Primera opción de menú.
 2. Seguna opción de menú.
@@ -25,7 +25,7 @@ _ Tercera opción de lista desordenada.
     2. Segundo submenú
 _ Cuarta opción de lista desordenada.
     * Tercer submenú
-    * Cuarto submenú
+  * Cuarto submenú
 + Quinta opción de lista desordenada.
 + Sexta opción de lista desordenada.
 
