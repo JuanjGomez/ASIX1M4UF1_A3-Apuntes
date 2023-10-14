@@ -9,7 +9,7 @@ Repositorio de Juan Gomez apuntes
 ## SUBTITULO
 
 Este texto está en *cursiva*.
-Este texto está en _cursiva_,
+Este texto está en _cursiva_.
 Este texto está en **negrita**.
 Este texto está en __negrita__.
 Este texo está en *_*negrita y cursiva*_*
@@ -34,7 +34,7 @@ Este parrafo sirve de ejemplo para el readme de todo lo que se ha hecho durante 
 Con esta subida se comprobara si se habra funcionado lo que se ha hecho en clase o hubo un error en el aprendizaje.
 
 ```
-<html>
+    <html>
     <head>
     </head>
     <body>
